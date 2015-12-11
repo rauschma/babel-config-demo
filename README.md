@@ -1,11 +1,11 @@
-# Node.js Babel static demo
+# Babel configuration demo
 
-Demonstrates how to use Babel statically, to compile ES6 code to ES5 code.
+Playground for examining how various options affect the output of Babel 6.
 
 * Install (everything you need is installed locally):
 
     ```
-    cd node-babel-static-demo/
+    cd babel-config-demo/
     npm install
     ```
 
@@ -19,10 +19,4 @@ Demonstrates how to use Babel statically, to compile ES6 code to ES5 code.
 
     ```
     npm run watch
-    ```
-
-* Run the app (as ES5 code, via the normal Node.js binary):
-
-    ```
-    npm start
     ```
