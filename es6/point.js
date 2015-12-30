@@ -1,5 +1,3 @@
-import 'babel-core/external-helpers';
-
 class Point {
     constructor(x, y) {
         this.x = x;
